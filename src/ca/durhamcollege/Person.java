@@ -1,3 +1,8 @@
+/**
+ * @author Angaran Yogeswaran, Student ID:100754161
+ * @date November 5 2021
+ * @version 1.0
+ */
 package ca.durhamcollege;
 
 public class Person
@@ -63,7 +68,6 @@ public class Person
 
     /**
      * This method tests the Person class and returns a simple message to the console
-     *
      */
     public void saysHello()
     {
